@@ -4,7 +4,7 @@ A side-scrolling endless swimmer.
 
 ## Viewing my code
 
-By going to Assets/Scripts you can view all of the scripts that I have for the demo.
+By going to Assets/Scripts you can view all of the scripts that I have for this game.
 
 ## Built With
 
@@ -13,7 +13,7 @@ By going to Assets/Scripts you can view all of the scripts that I have for the d
 
 ## Authors
 
-* **David Nwachukwu** - *Initial work* - [DavidNGames](http://davidngames.com/)
+* **David Nwachukwu** - *Initial work* - [DavidNData](http://davidndata.com/)
 
 ## Rights
 
