@@ -14,7 +14,3 @@ By going to Assets/Scripts you can view all of the scripts that I have for this 
 ## Authors
 
 * **David Nwachukwu** - *Initial work* - [DavidNData](http://davidndata.com/)
-
-## Rights
-
-This project is for viewing purposes only and should not be taken, used, or modified in anyway. 
